@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "f2ol9iGCDDwfkZrMHhmEWEsXOOs7OT/yjnNzBuhAQW4hvSnjYyvRqrSnI46XcTox1nL1tAX1gxq1+0DBpnHdLQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\SergioGoncalvesBR-iT\\source\\repos\\segoncalves\\ListarMembros_AeM\\ListarMembros\\ListarMembros\\ListarMembros.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SergioGoncalvesBR-iT\\.nuget\\packages\\google.apis\\1.49.0\\google.apis.1.49.0.nupkg.sha512",
+    "C:\\Users\\SergioGoncalvesBR-iT\\.nuget\\packages\\google.apis.auth\\1.49.0\\google.apis.auth.1.49.0.nupkg.sha512",
+    "C:\\Users\\SergioGoncalvesBR-iT\\.nuget\\packages\\google.apis.core\\1.49.0\\google.apis.core.1.49.0.nupkg.sha512",
+    "C:\\Users\\SergioGoncalvesBR-iT\\.nuget\\packages\\google.apis.youtube.v3\\1.49.0.2140\\google.apis.youtube.v3.1.49.0.2140.nupkg.sha512",
+    "C:\\Users\\SergioGoncalvesBR-iT\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
